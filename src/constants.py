@@ -1,5 +1,16 @@
 import os
 
+class WaterBodyData:
+    '''
+    This class contains the paths to the waterbody data files.
+    '''
+    __waterbodies_data = os.path.join('./', 'extractedData', 'WaterBodies')
+    waterbody_json = os.path.join(__waterbodies_data, 'aggregated_waterbodies.json')
+
+    # Init
+    def __init__(self):
+        print(f"Waterbody data path: {self.waterbody_data_path}")
+
 class RiverLakeData:
     '''
     This class contains the paths to the river and lake data files.

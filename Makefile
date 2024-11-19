@@ -3,3 +3,6 @@ venv:
 
 requirements:
 	pip install -r requirements.txt
+
+waterbodies:
+	python3 src/waterbodies.py

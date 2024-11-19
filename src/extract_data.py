@@ -2,6 +2,9 @@ import constants
 import geopandas as gpd
 import pandas as pd
 from shapely.geometry import Point
+from shapely.geometry import LineString
+
+supported_object_types = ['ElvBekk', 'Innsjø', 'Sideelv' 'Hovedelv i kystfelt', 'Hovedelv i vassOmr']
 
 # Define the path to the original and new CSV files
 fish_csv = constants.FishData.reduced_fish_data_path
@@ -12,15 +15,22 @@ lake_gdf = gpd.read_file(constants.RiverLakeData.lake_data_path)
 # Add the centroid of each lake as a new column
 lake_gdf['centroid'] = lake_gdf.centroid
 
+def calculate_midpoint(geom):
+    if isinstance(geom, LineString):
+        return geom.coords[0]  # Returns the first coordinate (start point)
+        # return geom.interpolate(0.5, normalized=True)
+    return geom.centroid  # Fallback to centroid if not a LineString
+
 print("Reading river data...")
 river_gdf = gpd.read_file(constants.RiverLakeData.mainRiver_data_path)
 # Add the centroid of each river as a new column
-river_gdf['centroid'] = river_gdf.centroid
+river_gdf['centroid'] = river_gdf.geometry.apply(calculate_midpoint) # river_gdf.centroid
 
 print("Reading riverNet data...")
 riverNet_gdf = gpd.read_file(constants.RiverLakeData.riverNet_data_path)
 # Add midpoint of each river as a new column
-riverNet_gdf['centroid'] = riverNet_gdf.centroid
+riverNet_gdf['centroid'] = riverNet_gdf.geometry.apply(calculate_midpoint) # riverNet_gdf.centroid
+riverNet_gdf['vassdragsnummer'] = riverNet_gdf['vassdragsnummer'].astype(str)  # Convert to string for consistency
 
 # Load fish data
 print("Reading fish data...")
