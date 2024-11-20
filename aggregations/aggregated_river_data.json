@@ -1,8 +1,15 @@
-{
-    "vegårsvassdraget": {
+[
+    {
         "name": "Vegårsvassdraget",
         "length_meters": 48389.56,
-        "position": [],
+        "positionEuref89Utm33": [
+            144670.1121652518,
+            6525945.742818393
+        ],
+        "positionWgs84": [
+            8.851205549678971,
+            58.71982580481058
+        ],
         "fish_species_count": 7,
         "fish_data": {
             "42681": {
@@ -51,10 +58,17 @@
             "Åmli"
         ]
     },
-    "sandvikselva": {
+    {
         "name": "Sandvikselva",
         "length_meters": 27638.76,
-        "position": [],
+        "positionEuref89Utm33": [
+            243891.6761050825,
+            6655488.687065316
+        ],
+        "positionWgs84": [
+            10.416403429417839,
+            59.94931912278759
+        ],
         "fish_species_count": 7,
         "fish_data": {
             "42663": {
@@ -101,10 +115,17 @@
             "Bærum"
         ]
     },
-    "saltdalsvassdraget": {
+    {
         "name": "Saltdalsvassdraget",
         "length_meters": 78981.42,
-        "position": [],
+        "positionEuref89Utm33": [
+            516973.45632615045,
+            7410746.429904451
+        ],
+        "positionWgs84": [
+            15.397792903178123,
+            66.80695729305896
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -125,10 +146,17 @@
             "Saltdal"
         ]
     },
-    "snåsavassdraget": {
+    {
         "name": "Snåsavassdraget",
         "length_meters": 113503.41,
-        "position": [],
+        "positionEuref89Utm33": [
+            369907.83910139505,
+            7126367.860765358
+        ],
+        "positionWgs84": [
+            12.306790490142419,
+            64.23974272571515
+        ],
         "fish_species_count": 6,
         "fish_data": {
             "42665": {
@@ -170,10 +198,17 @@
             "Steinkjer"
         ]
     },
-    "salsvatnvassdraget": {
+    {
         "name": "Salsvatnvassdraget",
         "length_meters": 50072.31,
-        "position": [],
+        "positionEuref89Utm33": [
+            351578.87800854817,
+            7183647.981741564
+        ],
+        "positionWgs84": [
+            11.877417801957458,
+            64.73262615100685
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42662": {
@@ -189,10 +224,17 @@
             "Namsos"
         ]
     },
-    "lakselvvassdraget": {
+    {
         "name": "Lakselvvassdraget",
         "length_meters": 103076.26,
-        "position": [],
+        "positionEuref89Utm33": [
+            895168.971921878,
+            7777523.253392584
+        ],
+        "positionWgs84": [
+            25.261374194900355,
+            69.81535670115883
+        ],
         "fish_species_count": 7,
         "fish_data": {
             "42662": {
@@ -238,10 +280,17 @@
             "Porsanger"
         ]
     },
-    "børselvvassdraget": {
+    {
         "name": "Børselvvassdraget",
         "length_meters": 74480.43,
-        "position": [],
+        "positionEuref89Utm33": [
+            908545.9718512478,
+            7826259.112093199
+        ],
+        "positionWgs84": [
+            25.889392570588576,
+            70.23987009630349
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42672": {
@@ -257,10 +306,17 @@
             "Porsanger"
         ]
     },
-    "gusdalelva": {
+    {
         "name": "Gusdalelva",
         "length_meters": 18693.97,
-        "position": [],
+        "positionEuref89Utm33": [
+            10660.44450818448,
+            6910035.565264121
+        ],
+        "positionWgs84": [
+            5.631407867115797,
+            62.00613372805079
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42665": {
@@ -276,10 +332,17 @@
             "Vanylven"
         ]
     },
-    "lysakerelva": {
+    {
         "name": "Lysakerelva",
         "length_meters": 38890.76,
-        "position": [],
+        "positionEuref89Utm33": [
+            254879.64172678982,
+            6665036.2591862
+        ],
+        "positionWgs84": [
+            10.588450759891911,
+            60.06204279276485
+        ],
         "fish_species_count": 8,
         "fish_data": {
             "42662": {
@@ -334,10 +397,17 @@
             "Ringerike"
         ]
     },
-    "årosvassdraget": {
+    {
         "name": "Årosvassdraget",
         "length_meters": 30506.63402408,
-        "position": [],
+        "positionEuref89Utm33": [
+            243734.69059332725,
+            6637672.76267471
+        ],
+        "positionWgs84": [
+            10.425720979340145,
+            59.799589906959945
+        ],
         "fish_species_count": 7,
         "fish_data": {
             "42631": {
@@ -385,10 +455,17 @@
             "Lier"
         ]
     },
-    "figgjo": {
+    {
         "name": "Figgjo",
         "length_meters": 45308.26300133,
-        "position": [],
+        "positionEuref89Utm33": [
+            -28731.39904997898,
+            6551518.953659088
+        ],
+        "positionWgs84": [
+            5.819497835484344,
+            58.78423924296633
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42633": {
@@ -415,10 +492,17 @@
             "Klepp"
         ]
     },
-    "aulivassdraget": {
+    {
         "name": "Aulivassdraget",
         "length_meters": 42483.12106082,
-        "position": [],
+        "positionEuref89Utm33": [
+            230444.05802219987,
+            6593416.087926431
+        ],
+        "positionWgs84": [
+            10.253681379878456,
+            59.38984575899289
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42621": {
@@ -450,10 +534,17 @@
             "Tønsberg"
         ]
     },
-    "valldøla": {
+    {
         "name": "Valldøla",
         "length_meters": 47111.17727321,
-        "position": [],
+        "positionEuref89Utm33": [
+            115102.35821530575,
+            6935461.243096603
+        ],
+        "positionWgs84": [
+            7.552896682213874,
+            62.350189914280385
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42662": {
@@ -469,10 +560,17 @@
             "Fjord"
         ]
     },
-    "vikadalselva": {
+    {
         "name": "Vikadalselva",
         "length_meters": 31603.83879372,
-        "position": [],
+        "positionEuref89Utm33": [
+            -6149.4461965199325,
+            6637048.281730051
+        ],
+        "positionWgs84": [
+            6.0255749298376236,
+            59.5632101589961
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42665": {
@@ -493,10 +591,17 @@
             "Vindafjord"
         ]
     },
-    "mossevassdraget": {
+    {
         "name": "Mossevassdraget",
         "length_meters": 103850.40709172,
-        "position": [],
+        "positionEuref89Utm33": [
+            270052.4613263707,
+            6614912.190247845
+        ],
+        "positionWgs84": [
+            10.925712225726809,
+            59.609000178386836
+        ],
         "fish_species_count": 19,
         "fish_data": {
             "42631": {
@@ -608,10 +713,17 @@
             "Våler"
         ]
     },
-    "nordmarkvassdraget": {
+    {
         "name": "Nordmarkvassdraget",
         "length_meters": 51143.99156747,
-        "position": [],
+        "positionEuref89Utm33": [
+            260107.27695284714,
+            6667928.945595493
+        ],
+        "positionWgs84": [
+            10.68384209738193,
+            60.08122916362568
+        ],
         "fish_species_count": 9,
         "fish_data": {
             "42665": {
@@ -671,10 +783,17 @@
             "Ringerike"
         ]
     },
-    "lierelva": {
+    {
         "name": "Lierelva",
         "length_meters": 46209.28695284,
-        "position": [],
+        "positionEuref89Utm33": [
+            234244.5797990694,
+            6644616.661578399
+        ],
+        "positionWgs84": [
+            10.253838535532415,
+            59.85414528076095
+        ],
         "fish_species_count": 5,
         "fish_data": {
             "42663": {
@@ -710,10 +829,17 @@
             "Lier"
         ]
     },
-    "lygna": {
+    {
         "name": "Lygna",
         "length_meters": 81737.63550193,
-        "position": [],
+        "positionEuref89Utm33": [
+            46578.51902767698,
+            6501207.856354851
+        ],
+        "positionWgs84": [
+            7.227425701526292,
+            58.4230707495895
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42662": {
@@ -745,10 +871,17 @@
             "Lyngdal"
         ]
     },
-    "årdalselva": {
+    {
         "name": "Årdalselva",
         "length_meters": 53887.96944476,
-        "position": [],
+        "positionEuref89Utm33": [
+            18132.77957931559,
+            6587024.842162983
+        ],
+        "positionWgs84": [
+            6.545061659756662,
+            59.14815294696891
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -764,10 +897,17 @@
             "Sandnes"
         ]
     },
-    "verdalsvassdraget": {
+    {
         "name": "Verdalsvassdraget",
         "length_meters": 94114.82149635,
-        "position": [],
+        "positionEuref89Utm33": [
+            358611.2012937395,
+            7079450.830888617
+        ],
+        "positionWgs84": [
+            12.107968628575286,
+            63.82031293249041
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42663": {
@@ -798,10 +938,17 @@
             "Verdal"
         ]
     },
-    "storelva": {
+    {
         "name": "Storelva",
         "length_meters": 56071.81137245,
-        "position": [],
+        "positionEuref89Utm33": [
+            921005.1608471896,
+            7824275.031666042
+        ],
+        "positionWgs84": [
+            26.161729854543754,
+            70.19091943227534
+        ],
         "fish_species_count": 7,
         "fish_data": {
             "42663": {
@@ -862,10 +1009,17 @@
             "Volda"
         ]
     },
-    "russelvvassdraget": {
+    {
         "name": "Russelvvassdraget",
         "length_meters": 36120.68871856,
-        "position": [],
+        "positionEuref89Utm33": [
+            868572.5864632288,
+            7859865.954078733
+        ],
+        "positionWgs84": [
+            24.970335207796424,
+            70.57451651905677
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -886,10 +1040,17 @@
             "Porsanger"
         ]
     },
-    "teksdalselva": {
+    {
         "name": "Teksdalselva",
         "length_meters": 28650.46580332,
-        "position": [],
+        "positionEuref89Utm33": [
+            255660.39601671323,
+            7083755.02762565
+        ],
+        "positionWgs84": [
+            10.046847803064349,
+            63.79771865252591
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -910,10 +1071,17 @@
             "Ørland"
         ]
     },
-    "oppløyelva": {
+    {
         "name": "Oppløyelva",
         "length_meters": 24966.84862237,
-        "position": [],
+        "positionEuref89Utm33": [
+            359340.3088101663,
+            7196216.186554325
+        ],
+        "positionWgs84": [
+            12.038500350247633,
+            64.86294613960952
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -929,10 +1097,17 @@
             "Nærøysund"
         ]
     },
-    "stordalselva": {
+    {
         "name": "Stordalselva",
         "length_meters": 48513.15756348,
-        "position": [],
+        "positionEuref89Utm33": [
+            283067.236063714,
+            7108232.866757815
+        ],
+        "positionWgs84": [
+            10.557108532760566,
+            64.03122179286156
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42662": {
@@ -948,10 +1123,17 @@
             "Åfjord"
         ]
     },
-    "lakselva fra trollbuvatnet": {
+    {
         "name": "Lakselva fra Trollbuvatnet",
         "length_meters": 35645.04352494,
-        "position": [],
+        "positionEuref89Utm33": [
+            600376.0006440717,
+            7684275.887898016
+        ],
+        "positionWgs84": [
+            17.56527441520061,
+            69.24850513877313
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42665": {
@@ -972,10 +1154,17 @@
             "Senja"
         ]
     },
-    "storelva (burfjorden)": {
+    {
         "name": "Storelva (burfjorden)",
         "length_meters": 31887.63017325,
-        "position": [],
+        "positionEuref89Utm33": [
+            778418.9283206958,
+            7771151.977922905
+        ],
+        "positionWgs84": [
+            22.264872507785036,
+            69.89839753898106
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42665": {
@@ -991,10 +1180,17 @@
             "Kvænangen"
         ]
     },
-    "langfjordvassdraget": {
+    {
         "name": "Langfjordvassdraget",
         "length_meters": 44744.77204098,
-        "position": [],
+        "positionEuref89Utm33": [
+            959013.4225526452,
+            7868372.752010266
+        ],
+        "positionWgs84": [
+            27.39421057046827,
+            70.51039169194027
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42662": {
@@ -1010,10 +1206,17 @@
             "Gamvik"
         ]
     },
-    "haldenvassdraget": {
+    {
         "name": "Haldenvassdraget",
         "length_meters": 149225.37035614,
-        "position": [],
+        "positionEuref89Utm33": [
+            308307.3097701279,
+            6610206.349098802
+        ],
+        "positionWgs84": [
+            11.60451865701835,
+            59.58619720970233
+        ],
         "fish_species_count": 19,
         "fish_data": {
             "42983": {
@@ -1125,10 +1328,17 @@
             "Nes"
         ]
     },
-    "driva": {
+    {
         "name": "Driva",
         "length_meters": 139629.46653335,
-        "position": [],
+        "positionEuref89Utm33": [
+            221430.72425575615,
+            6953392.23486919
+        ],
+        "positionWgs84": [
+            9.465738844425273,
+            62.604715938860814
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42662": {
@@ -1151,10 +1361,17 @@
             "Sunndal"
         ]
     },
-    "årgårdsvassdraget": {
+    {
         "name": "Årgårdsvassdraget",
         "length_meters": 40871.89264769,
-        "position": [],
+        "positionEuref89Utm33": [
+            307657.3379358522,
+            7125288.651204724
+        ],
+        "positionWgs84": [
+            11.010541943730395,
+            64.19322646204992
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -1170,10 +1387,17 @@
             "Namsos"
         ]
     },
-    "sandevassdraget": {
+    {
         "name": "Sandevassdraget",
         "length_meters": 33720.61506854,
-        "position": [],
+        "positionEuref89Utm33": [
+            229338.45840028508,
+            6624766.447980237
+        ],
+        "positionWgs84": [
+            10.175646899663358,
+            59.67836281337764
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42453": {
@@ -1194,10 +1418,17 @@
             "Holmestrand"
         ]
     },
-    "komagelva": {
+    {
         "name": "Komagelva",
         "length_meters": 48775.13148249,
-        "position": [],
+        "positionEuref89Utm33": [
+            1064595.4317378122,
+            7870023.41420245
+        ],
+        "positionWgs84": [
+            30.129311425390668,
+            70.30292002110785
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42665": {
@@ -1223,10 +1454,17 @@
             "Vardø"
         ]
     },
-    "frafjordelva": {
+    {
         "name": "Frafjordelva",
         "length_meters": 34896.94313208,
-        "position": [],
+        "positionEuref89Utm33": [
+            10165.250949892074,
+            6561480.235958164
+        ],
+        "positionWgs84": [
+            6.473895050264295,
+            58.9082172978641
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42666": {
@@ -1242,10 +1480,17 @@
             "Gjesdal"
         ]
     },
-    "vesterelvvassdraget": {
+    {
         "name": "Vesterelvvassdraget",
         "length_meters": 49296.97283003,
-        "position": [],
+        "positionEuref89Utm33": [
+            1034243.8934923864,
+            7887849.15421497
+        ],
+        "positionWgs84": [
+            29.52175383133295,
+            70.51774554802012
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42665": {
@@ -1266,10 +1511,17 @@
             "Vadsø"
         ]
     },
-    "aurlandsvassdraget": {
+    {
         "name": "Aurlandsvassdraget",
         "length_meters": 56616.13172541,
-        "position": [],
+        "positionEuref89Utm33": [
+            94479.34468522295,
+            6766224.071961017
+        ],
+        "positionWgs84": [
+            7.506698028315246,
+            60.82579355829216
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -1285,10 +1537,17 @@
             "Aurland"
         ]
     },
-    "etnevassdraget": {
+    {
         "name": "Etnevassdraget",
         "length_meters": 37857.3267189,
-        "position": [],
+        "positionEuref89Utm33": [
+            3340.805618980656,
+            6653958.469188777
+        ],
+        "positionWgs84": [
+            6.14529952281383,
+            59.721707974378745
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42665": {
@@ -1304,10 +1563,17 @@
             "Etne"
         ]
     },
-    "eksingedalsvassdraget": {
+    {
         "name": "Eksingedalsvassdraget",
         "length_meters": 61814.6421936,
-        "position": [],
+        "positionEuref89Utm33": [
+            16638.064664964535,
+            6771916.037060237
+        ],
+        "positionWgs84": [
+            6.109121051617624,
+            60.78791219952982
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42665": {
@@ -1323,10 +1589,17 @@
             "Voss"
         ]
     },
-    "reisavassdraget": {
+    {
         "name": "Reisavassdraget",
         "length_meters": 128942.781727,
-        "position": [],
+        "positionEuref89Utm33": [
+            761775.4075462526,
+            7715062.746132673
+        ],
+        "positionWgs84": [
+            21.728649387100035,
+            69.39537740750244
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42665": {
@@ -1352,10 +1625,17 @@
             "Nordreisa"
         ]
     },
-    "tana": {
+    {
         "name": "Tana",
         "length_meters": 368827.10571317,
-        "position": [],
+        "positionEuref89Utm33": [
+            922638.7832772013,
+            7765074.963457534
+        ],
+        "positionWgs84": [
+            25.984614015346843,
+            69.71220266661501
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -1376,10 +1656,17 @@
             "Tana"
         ]
     },
-    "upperudsälven": {
+    {
         "name": "Upperudsälven",
         "length_meters": 114472.14555207,
-        "position": [],
+        "positionEuref89Utm33": [
+            321353.11061565415,
+            6595604.494661476
+        ],
+        "positionWgs84": [
+            11.852435620680064,
+            59.47395972535124
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42681": {
@@ -1412,10 +1699,17 @@
             "Aurskog-Høland"
         ]
     },
-    "trysilelva": {
+    {
         "name": "Trysilelva",
         "length_meters": 256685.49293954,
-        "position": [],
+        "positionEuref89Utm33": [
+            323208.725844729,
+            6854876.106719735
+        ],
+        "positionWgs84": [
+            11.683341768437158,
+            61.80010912062628
+        ],
         "fish_species_count": 8,
         "fish_data": {
             "42676": {
@@ -1469,10 +1763,17 @@
             "Trysil"
         ]
     },
-    "indalsälven": {
+    {
         "name": "Indalsälven ",
         "length_meters": 152624.87714368,
-        "position": [],
+        "positionEuref89Utm33": [
+            406289.3632742821,
+            7067978.656177022
+        ],
+        "positionWgs84": [
+            13.10006108277749,
+            63.71700597353281
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42788": {
@@ -1498,10 +1799,17 @@
             "Snåsa"
         ]
     },
-    "gaularvassdraget": {
+    {
         "name": "Gaularvassdraget",
         "length_meters": 73364.47524629,
-        "position": [],
+        "positionEuref89Utm33": [
+            29199.95601904137,
+            6834379.352602986
+        ],
+        "positionWgs84": [
+            6.166320316827604,
+            61.35619310864263
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -1517,10 +1825,17 @@
             "Sunnfjord"
         ]
     },
-    "strömsån": {
+    {
         "name": "Strömsån",
         "length_meters": 15165.94624187,
-        "position": [],
+        "positionEuref89Utm33": [
+            294900.9923227019,
+            6535777.535854258
+        ],
+        "positionWgs84": [
+            11.434408042756283,
+            58.91657055349792
+        ],
         "fish_species_count": 10,
         "fish_data": {
             "42852": {
@@ -1581,10 +1896,17 @@
             "Halden"
         ]
     },
-    "byälven-mangenvassdraget": {
+    {
         "name": "Byälven-mangenvassdraget",
         "length_meters": 118637.60928407,
-        "position": [],
+        "positionEuref89Utm33": [
+            334480.471264422,
+            6629249.103278208
+        ],
+        "positionWgs84": [
+            12.060649296510878,
+            59.75766756769625
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42631": {
@@ -1617,10 +1939,17 @@
             "Nes"
         ]
     },
-    "osenvassdraget": {
+    {
         "name": "Osenvassdraget",
         "length_meters": 23556.83441614,
-        "position": [],
+        "positionEuref89Utm33": [
+            137012.7869212326,
+            6987932.787984678
+        ],
+        "positionWgs84": [
+            7.852576691970707,
+            62.8358228525082
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42662": {
@@ -1651,10 +1980,17 @@
             "Molde"
         ]
     },
-    "sulitjelmavassdraget": {
+    {
         "name": "Sulitjelmavassdraget",
         "length_meters": 86455.76621012,
-        "position": [],
+        "positionEuref89Utm33": [
+            545456.5190448249,
+            7440183.868098504
+        ],
+        "positionWgs84": [
+            16.077638922140252,
+            67.10693792781196
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -1676,10 +2012,17 @@
             "Saltdal"
         ]
     },
-    "blåelva": {
+    {
         "name": "Blåelva",
         "length_meters": 36788.03194251,
-        "position": [],
+        "positionEuref89Utm33": [
+            6072.930288985553,
+            6672542.213943855
+        ],
+        "positionWgs84": [
+            6.158138663067614,
+            59.89627639281
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -1695,10 +2038,17 @@
             "Kvinnherad"
         ]
     },
-    "numedalslågen": {
+    {
         "name": "Numedalslågen",
         "length_meters": 357724.17299491,
-        "position": [],
+        "positionEuref89Utm33": [
+            178791.71298379282,
+            6669660.35772153
+        ],
+        "positionWgs84": [
+            9.115568002925977,
+            60.07009502826074
+        ],
         "fish_species_count": 8,
         "fish_data": {
             "42663": {
@@ -1755,10 +2105,17 @@
             "Rollag"
         ]
     },
-    "bergsdalsvassdraget": {
+    {
         "name": "Bergsdalsvassdraget",
         "length_meters": 41986.68664084,
-        "position": [],
+        "positionEuref89Utm33": [
+            8907.874203205252,
+            6746106.820889049
+        ],
+        "positionWgs84": [
+            6.021494903518646,
+            60.5540329187959
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -1774,10 +2131,17 @@
             "Voss"
         ]
     },
-    "oselvvassdraget": {
+    {
         "name": "Oselvvassdraget",
         "length_meters": 48537.13442432,
-        "position": [],
+        "positionEuref89Utm33": [
+            6451.555985306728,
+            6866675.51527575
+        ],
+        "positionWgs84": [
+            5.675002816106567,
+            61.61418272185703
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42665": {
@@ -1794,10 +2158,17 @@
             "Kinn"
         ]
     },
-    "eira": {
+    {
         "name": "Eira",
         "length_meters": 87214.68439249,
-        "position": [],
+        "positionEuref89Utm33": [
+            157746.69685730987,
+            6937213.7841686085
+        ],
+        "positionWgs84": [
+            8.394891382806016,
+            62.40485297715533
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -1820,10 +2191,17 @@
             "Molde"
         ]
     },
-    "høyangervassdraget": {
+    {
         "name": "Høyangervassdraget",
         "length_meters": 17957.17172992,
-        "position": [],
+        "positionEuref89Utm33": [
+            29043.174892352406,
+            6823711.37955367
+        ],
+        "positionWgs84": [
+            6.20347617242914,
+            61.26235892908455
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42672": {
@@ -1839,10 +2217,17 @@
             "Høyanger"
         ]
     },
-    "kåfjordvassdraget": {
+    {
         "name": "Kåfjordvassdraget",
         "length_meters": 43442.28022328,
-        "position": [],
+        "positionEuref89Utm33": [
+            738382.2963546619,
+            7705900.797503204
+        ],
+        "positionWgs84": [
+            21.096346992695985,
+            69.34329330447994
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42665": {
@@ -1858,10 +2243,17 @@
             "Kåfjord"
         ]
     },
-    "lakselva": {
+    {
         "name": "Lakselva",
         "length_meters": 26358.59759417,
-        "position": [],
+        "positionEuref89Utm33": [
+            679549.5989017587,
+            7698434.601019193
+        ],
+        "positionWgs84": [
+            19.551443588553134,
+            69.32769771739557
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42665": {
@@ -1890,10 +2282,17 @@
             "Hitra"
         ]
     },
-    "nidelvvassdraget": {
+    {
         "name": "Nidelvvassdraget",
         "length_meters": 176431.87385132,
-        "position": [],
+        "positionEuref89Utm33": [
+            311501.46727410244,
+            7005502.440396902
+        ],
+        "positionWgs84": [
+            11.259220351537037,
+            63.135195607222684
+        ],
         "fish_species_count": 7,
         "fish_data": {
             "42681": {
@@ -1940,10 +2339,17 @@
             "Tydal"
         ]
     },
-    "breimsvassdraget": {
+    {
         "name": "Breimsvassdraget",
         "length_meters": 53718.60431044,
-        "position": [],
+        "positionEuref89Utm33": [
+            52015.39143512627,
+            6867340.882695459
+        ],
+        "positionWgs84": [
+            6.520088608770407,
+            61.68817397580243
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42665": {
@@ -1974,10 +2380,17 @@
             "Gloppen"
         ]
     },
-    "surna": {
+    {
         "name": "Surna",
         "length_meters": 68719.48526015,
-        "position": [],
+        "positionEuref89Utm33": [
+            205027.68864010976,
+            7004438.059994063
+        ],
+        "positionWgs84": [
+            9.137501432207069,
+            63.045942748223624
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42665": {
@@ -2005,10 +2418,17 @@
             "Surnadal"
         ]
     },
-    "pasvikelva": {
+    {
         "name": "Pasvikelva",
         "length_meters": 385333.78149348,
-        "position": [],
+        "positionEuref89Utm33": [
+            1008902.5390196083,
+            7678398.522152857
+        ],
+        "positionWgs84": [
+            27.60442540898151,
+            68.69345626139919
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -2029,10 +2449,17 @@
             "Sør-Varanger"
         ]
     },
-    "orkla": {
+    {
         "name": "Orkla",
         "length_meters": 184763.99419311,
-        "position": [],
+        "positionEuref89Utm33": [
+            243770.92584161187,
+            6968122.413420801
+        ],
+        "positionWgs84": [
+            9.995291704772653,
+            62.72560996265791
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42662": {
@@ -2059,10 +2486,17 @@
             "Rennebu"
         ]
     },
-    "jørpelandsåna": {
+    {
         "name": "Jørpelandsåna",
         "length_meters": 25391.31278564,
-        "position": [],
+        "positionEuref89Utm33": [
+            -4024.61913686393,
+            6581198.364843034
+        ],
+        "positionWgs84": [
+            6.188853799866458,
+            59.07176656129292
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -2083,10 +2517,17 @@
             "Strand"
         ]
     },
-    "rauma": {
+    {
         "name": "Rauma",
         "length_meters": 74053.28636382,
-        "position": [],
+        "positionEuref89Utm33": [
+            140152.4764034002,
+            6935649.596443792
+        ],
+        "positionWgs84": [
+            8.036649191671726,
+            62.37167757004738
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42662": {
@@ -2102,10 +2543,17 @@
             "Rauma"
         ]
     },
-    "stjørdalsvassdraget": {
+    {
         "name": "Stjørdalsvassdraget",
         "length_meters": 83534.88954758,
-        "position": [],
+        "positionEuref89Utm33": [
+            328912.5598111816,
+            7041042.075162542
+        ],
+        "positionWgs84": [
+            11.547293809275352,
+            63.45836162960963
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42662": {
@@ -2127,10 +2575,17 @@
             "Stjørdal"
         ]
     },
-    "guddalsvassdraget": {
+    {
         "name": "Guddalsvassdraget",
         "length_meters": 39905.99533236,
-        "position": [],
+        "positionEuref89Utm33": [
+            -7881.395415197796,
+            6828096.3428673325
+        ],
+        "positionWgs84": [
+            5.5097949571513585,
+            61.253507201918424
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42665": {
@@ -2156,10 +2611,17 @@
             "Fjaler"
         ]
     },
-    "audna": {
+    {
         "name": "Audna",
         "length_meters": 64543.85257813,
-        "position": [],
+        "positionEuref89Utm33": [
+            51893.98653010364,
+            6484678.297962337
+        ],
+        "positionWgs84": [
+            7.34929989401113,
+            58.27540554871499
+        ],
         "fish_species_count": 5,
         "fish_data": {
             "42662": {
@@ -2196,10 +2658,17 @@
             "Lyngdal"
         ]
     },
-    "reppenelva": {
+    {
         "name": "Reppenelva",
         "length_meters": 33522.37782058,
-        "position": [],
+        "positionEuref89Utm33": [
+            1013225.4957469855,
+            7821407.023241014
+        ],
+        "positionWgs84": [
+            28.53257931545566,
+            69.98377684741018
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42665": {
@@ -2220,10 +2689,17 @@
             "Nesseby"
         ]
     },
-    "tovdalsvassdraget": {
+    {
         "name": "Tovdalsvassdraget",
         "length_meters": 150033.42359487,
-        "position": [],
+        "positionEuref89Utm33": [
+            111945.23966791292,
+            6528270.18163911
+        ],
+        "positionWgs84": [
+            8.25925106322649,
+            58.74674727881662
+        ],
         "fish_species_count": 6,
         "fish_data": {
             "42617": {
@@ -2267,10 +2743,17 @@
             "Åmli"
         ]
     },
-    "hølenelva": {
+    {
         "name": "Hølenelva",
         "length_meters": 26016.26715124,
-        "position": [],
+        "positionEuref89Utm33": [
+            264656.29887995234,
+            6611101.232548928
+        ],
+        "positionWgs84": [
+            10.823940574450951,
+            59.56524973277627
+        ],
         "fish_species_count": 7,
         "fish_data": {
             "42663": {
@@ -2317,10 +2800,17 @@
             "Vestby"
         ]
     },
-    "sævareidvassdraget": {
+    {
         "name": "Sævareidvassdraget",
         "length_meters": 22255.73661819,
-        "position": [],
+        "positionEuref89Utm33": [
+            -2039.365392708587,
+            6713132.374502425
+        ],
+        "positionWgs84": [
+            5.903080867120113,
+            60.23353759298249
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42665": {
@@ -2346,10 +2836,17 @@
             "Bjørnafjorden"
         ]
     },
-    "namsen": {
+    {
         "name": "Namsen",
         "length_meters": 230022.11209301,
-        "position": [],
+        "positionEuref89Utm33": [
+            404155.44097930065,
+            7190436.275996282
+        ],
+        "positionWgs84": [
+            12.96907893118799,
+            64.81751057124335
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42663": {
@@ -2378,10 +2875,17 @@
             "Røyrvik"
         ]
     },
-    "gjengedalsvassdraget": {
+    {
         "name": "Gjengedalsvassdraget",
         "length_meters": 33026.47632218,
-        "position": [],
+        "positionEuref89Utm33": [
+            26928.36047813954,
+            6868517.35184771
+        ],
+        "positionWgs84": [
+            6.055650499477566,
+            61.66097475430915
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42665": {
@@ -2397,10 +2901,17 @@
             "Gloppen"
         ]
     },
-    "vefsna": {
+    {
         "name": "Vefsna",
         "length_meters": 166151.79928713,
-        "position": [],
+        "positionEuref89Utm33": [
+            454260.5539162789,
+            7268511.435190676
+        ],
+        "positionWgs84": [
+            14.0049946705457,
+            65.49556482922543
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42663": {
@@ -2428,10 +2939,17 @@
             "Vefsn"
         ]
     },
-    "hellemovassdraget": {
+    {
         "name": "Hellemovassdraget",
         "length_meters": 17369.45842076,
-        "position": [],
+        "positionEuref89Utm33": [
+            564930.790891361,
+            7517457.26303459
+        ],
+        "positionWgs84": [
+            16.53776844773878,
+            67.76483509318554
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42665": {
@@ -2452,10 +2970,17 @@
             "Hamarøy"
         ]
     },
-    "ranavassdraget": {
+    {
         "name": "Ranavassdraget",
         "length_meters": 97570.82028418,
-        "position": [],
+        "positionEuref89Utm33": [
+            493431.8979911256,
+            7371483.6243286105
+        ],
+        "positionWgs84": [
+            14.82659502860522,
+            66.44053825269255
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42662": {
@@ -2471,10 +2996,17 @@
             "Rana"
         ]
     },
-    "samnangervassdraget": {
+    {
         "name": "Samnangervassdraget",
         "length_meters": 30492.77511414,
-        "position": [],
+        "positionEuref89Utm33": [
+            593.4629754373175,
+            6736782.444531428
+        ],
+        "positionWgs84": [
+            5.898014636443013,
+            60.45629954641049
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42665": {
@@ -2490,10 +3022,17 @@
             "Samnanger"
         ]
     },
-    "bjerkreimvassdraget": {
+    {
         "name": "Bjerkreimvassdraget",
         "length_meters": 73383.82188749,
-        "position": [],
+        "positionEuref89Utm33": [
+            -8055.068814929434,
+            6542468.47549601
+        ],
+        "positionWgs84": [
+            6.253204610185868,
+            58.733313987936654
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42672": {
@@ -2525,10 +3064,17 @@
             "Eigersund"
         ]
     },
-    "lærdalsvassdraget": {
+    {
         "name": "Lærdalsvassdraget",
         "length_meters": 81115.86563773,
-        "position": [],
+        "positionEuref89Utm33": [
+            116750.5483178479,
+            6792955.642826017
+        ],
+        "positionWgs84": [
+            7.880085496835396,
+            61.0872528005163
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42663": {
@@ -2549,10 +3095,17 @@
             "Lærdal"
         ]
     },
-    "kobbelvvassdraget": {
+    {
         "name": "KOBBELVVASSDRAGET",
         "length_meters": 46475.41180856,
-        "position": [],
+        "positionEuref89Utm33": [
+            549247.6866850272,
+            7509761.710251916
+        ],
+        "positionWgs84": [
+            16.170268068260178,
+            67.70033024750315
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -2568,10 +3121,17 @@
             "Hamarøy"
         ]
     },
-    "mandalselva": {
+    {
         "name": "Mandalselva",
         "length_meters": 138484.83034169,
-        "position": [],
+        "positionEuref89Utm33": [
+            59750.156513634975,
+            6511449.1895992
+        ],
+        "positionWgs84": [
+            7.427366995031547,
+            58.52830338723697
+        ],
         "fish_species_count": 10,
         "fish_data": {
             "42662": {
@@ -2634,10 +3194,17 @@
             "Åseral"
         ]
     },
-    "stigedalselva": {
+    {
         "name": "Stigedalselva",
         "length_meters": 26028.04333828,
-        "position": [],
+        "positionEuref89Utm33": [
+            36125.27116500294,
+            6901083.026624071
+        ],
+        "positionWgs84": [
+            6.136397096459321,
+            61.95704825445095
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42850": {
@@ -2653,10 +3220,17 @@
             "Volda"
         ]
     },
-    "røssåga": {
+    {
         "name": "Røssåga",
         "length_meters": 99557.97311528,
-        "position": [],
+        "positionEuref89Utm33": [
+            448554.30501429754,
+            7300387.296813638
+        ],
+        "positionWgs84": [
+            13.985763580844687,
+            65.77349510440492
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42665": {
@@ -2678,10 +3252,17 @@
             "Hemnes"
         ]
     },
-    "vossovassdraget": {
+    {
         "name": "Vossovassdraget",
         "length_meters": 82461.74755353,
-        "position": [],
+        "positionEuref89Utm33": [
+            35763.69781835665,
+            6759433.709032437
+        ],
+        "positionWgs84": [
+            6.4574014636791,
+            60.67050407379795
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42850": {
@@ -2707,10 +3288,17 @@
             "Voss"
         ]
     },
-    "lysevassdraget": {
+    {
         "name": "Lysevassdraget",
         "length_meters": 16746.37311806,
-        "position": [],
+        "positionEuref89Utm33": [
+            29018.160809568788,
+            6576788.797405127
+        ],
+        "positionWgs84": [
+            6.766908955852316,
+            59.06784743952432
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42662": {
@@ -2726,10 +3314,17 @@
             "Sandnes"
         ]
     },
-    "otra": {
+    {
         "name": "Otra",
         "length_meters": 249817.76496113,
-        "position": [],
+        "positionEuref89Utm33": [
+            79244.55411199774,
+            6559982.34165676
+        ],
+        "positionWgs84": [
+            7.639821554107602,
+            58.9823752944741
+        ],
         "fish_species_count": 3,
         "fish_data": {
             "42662": {
@@ -2757,10 +3352,17 @@
             "Vennesla"
         ]
     },
-    "kvina": {
+    {
         "name": "Kvina",
         "length_meters": 151649.15380404,
-        "position": [],
+        "positionEuref89Utm33": [
+            39071.03807071513,
+            6542703.659236698
+        ],
+        "positionWgs84": [
+            7.0264772869671575,
+            58.78805818751796
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42662": {
@@ -2794,10 +3396,17 @@
             "Valle"
         ]
     },
-    "saudavassdraget": {
+    {
         "name": "Saudavassdraget",
         "length_meters": 38444.48155439,
-        "position": [],
+        "positionEuref89Utm33": [
+            22152.103155781526,
+            6650641.87130983
+        ],
+        "positionWgs84": [
+            6.49727958235528,
+            59.70589316836731
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -2813,10 +3422,17 @@
             "Sauda"
         ]
     },
-    "skiensvassdraget": {
+    {
         "name": "Skiensvassdraget",
         "length_meters": 270999.78995375,
-        "position": [],
+        "positionEuref89Utm33": [
+            151934.17514711255,
+            6659637.781267714
+        ],
+        "positionWgs84": [
+            8.62506867709217,
+            59.877429477875886
+        ],
         "fish_species_count": 10,
         "fish_data": {
             "42663": {
@@ -2881,10 +3497,17 @@
             "Vinje"
         ]
     },
-    "sørelva": {
+    {
         "name": "Sørelva",
         "length_meters": 34037.04419845,
-        "position": [],
+        "positionEuref89Utm33": [
+            572351.5416839665,
+            7567492.868310812
+        ],
+        "positionWgs84": [
+            16.76768917708178,
+            68.20881705839022
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42665": {
@@ -2908,10 +3531,17 @@
             "Sunnfjord"
         ]
     },
-    "sira": {
+    {
         "name": "Sira",
         "length_meters": 151535.84123632,
-        "position": [],
+        "positionEuref89Utm33": [
+            26323.55431101429,
+            6552774.718651909
+        ],
+        "positionWgs84": [
+            6.816071448119903,
+            58.86736250052753
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42663": {
@@ -2927,10 +3557,17 @@
             "Sirdal"
         ]
     },
-    "målselvvassdraget": {
+    {
         "name": "Målselvvassdraget",
         "length_meters": 139622.59749494,
-        "position": [],
+        "positionEuref89Utm33": [
+            666045.3946268242,
+            7659387.622610134
+        ],
+        "positionWgs84": [
+            19.23463898126315,
+            68.99468302661593
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42663": {
@@ -2961,10 +3598,17 @@
             "Målselv"
         ]
     },
-    "kragerøvassdraget": {
+    {
         "name": "Kragerøvassdraget",
         "length_meters": 92458.38516775,
-        "position": [],
+        "positionEuref89Utm33": [
+            156142.62134878614,
+            6568501.300175889
+        ],
+        "positionWgs84": [
+            9.004278698278274,
+            59.10188320135201
+        ],
         "fish_species_count": 7,
         "fish_data": {
             "42852": {
@@ -3011,10 +3655,17 @@
             "Kragerø"
         ]
     },
-    "suldalsvassdraget": {
+    {
         "name": "Suldalsvassdraget",
         "length_meters": 110460.41174034,
-        "position": [],
+        "positionEuref89Utm33": [
+            37517.6772472892,
+            6642612.087972366
+        ],
+        "positionWgs84": [
+            6.810049664419832,
+            59.648670891492
+        ],
         "fish_species_count": 4,
         "fish_data": {
             "42663": {
@@ -3045,10 +3696,17 @@
             "Suldal"
         ]
     },
-    "årøyvassdraget": {
+    {
         "name": "Årøyvassdraget",
         "length_meters": 49233.84232804,
-        "position": [],
+        "positionEuref89Utm33": [
+            78961.25267802979,
+            6836913.397235938
+        ],
+        "positionWgs84": [
+            7.087517460093185,
+            61.4398999283413
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42662": {
@@ -3069,10 +3727,17 @@
             "Sogndal"
         ]
     },
-    "beiarelva": {
+    {
         "name": "Beiarelva",
         "length_meters": 63440.24142516,
-        "position": [],
+        "positionEuref89Utm33": [
+            488150.1931761549,
+            7418936.236383722
+        ],
+        "positionWgs84": [
+            14.759789370519393,
+            66.89905274540017
+        ],
         "fish_species_count": 1,
         "fish_data": {
             "42672": {
@@ -3088,10 +3753,17 @@
             "Beiarn"
         ]
     },
-    "glommavassdraget": {
+    {
         "name": "Glommavassdraget",
         "length_meters": 620920.23895438,
-        "position": [],
+        "positionEuref89Utm33": [
+            303726.1218213467,
+            6774448.9429006865
+        ],
+        "positionWgs84": [
+            11.37374522364912,
+            61.149687577034044
+        ],
         "fish_species_count": 23,
         "fish_data": {
             "42613": {
@@ -3236,10 +3908,17 @@
             "Åsnes"
         ]
     },
-    "arendalsvassdraget": {
+    {
         "name": "Arendalsvassdraget",
         "length_meters": 222656.70737372,
-        "position": [],
+        "positionEuref89Utm33": [
+            127049.00018531021,
+            6561470.177500745
+        ],
+        "positionWgs84": [
+            8.504992083474269,
+            59.06993472314626
+        ],
         "fish_species_count": 6,
         "fish_data": {
             "42633": {
@@ -3284,10 +3963,17 @@
             "Åmli"
         ]
     },
-    "dalälven": {
+    {
         "name": "Dalälven",
         "length_meters": 159592.4149394,
-        "position": [],
+        "positionEuref89Utm33": [
+            383796.40554387635,
+            6858335.422023036
+        ],
+        "positionWgs84": [
+            12.756693649410328,
+            61.84722871350463
+        ],
         "fish_species_count": 2,
         "fish_data": {
             "42681": {
@@ -3308,10 +3994,17 @@
             "Engerdal"
         ]
     },
-    "drammensvassdraget": {
+    {
         "name": "Drammensvassdraget",
         "length_meters": 309325.84593818,
-        "position": [],
+        "positionEuref89Utm33": [
+            219052.06957370185,
+            6734602.366140916
+        ],
+        "positionWgs84": [
+            9.746748627680306,
+            60.664129636842354
+        ],
         "fish_species_count": 12,
         "fish_data": {
             "42663": {
@@ -3390,4 +4083,4 @@
             "Øvre Eiker"
         ]
     }
-}
+]

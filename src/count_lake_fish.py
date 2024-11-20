@@ -101,7 +101,7 @@ def main():
     fish_data = load_csv(input_csv_path)
 
     # Process data
-    lakes = process_data(json_data, fish_data)
+    lakes = list(process_data(json_data, fish_data).values())
 
     # Save processed data
     save_json(lakes, output_json_path)

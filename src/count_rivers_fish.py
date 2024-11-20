@@ -78,7 +78,8 @@ def process_data(json_data, fish_data):
             rivers[key] = {
                 "name": river.get("elvenavn", "Unknown River"),
                 "length_meters": river.get("elvelengde", 0),
-                "position": river.get("position", []),
+                "positionEuref89Utm33": river.get("positionEuref89Utm33", []),
+                "positionWgs84": river.get("positionWgs84", []),
                 "fish_species_count": len(river_fish_stats),
                 "fish_data": river_fish_stats,
                 "counties": counties,
@@ -101,7 +102,7 @@ def main():
     fish_data = load_csv(input_csv_path)
 
     # Process data
-    rivers = process_data(json_data, fish_data)
+    rivers = list(process_data(json_data, fish_data).values())
 
     # Save processed data
     save_json(rivers, output_json_path)
