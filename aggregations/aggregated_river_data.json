@@ -1,0 +1,3393 @@
+{
+    "vegårsvassdraget": {
+        "name": "Vegårsvassdraget",
+        "length_meters": 48389.56,
+        "position": [],
+        "fish_species_count": 7,
+        "fish_data": {
+            "42681": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42681"
+            },
+            "42662": {
+                "count": 16,
+                "last_caught": 1473890400,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 37,
+                "last_caught": 1689026400,
+                "species_id": "42663"
+            },
+            "42617": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42617"
+            },
+            "42983": {
+                "count": 9,
+                "last_caught": 1420066800,
+                "species_id": "42983"
+            },
+            "42666": {
+                "count": 5,
+                "last_caught": 1688680800,
+                "species_id": "42666"
+            },
+            "42850": {
+                "count": 1,
+                "last_caught": 1689026400,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Agder"
+        ],
+        "municipalities": [
+            "Gjerstad",
+            "Tvedestrand",
+            "Vegårshei",
+            "Åmli"
+        ]
+    },
+    "sandvikselva": {
+        "name": "Sandvikselva",
+        "length_meters": 27638.76,
+        "position": [],
+        "fish_species_count": 7,
+        "fish_data": {
+            "42663": {
+                "count": 3,
+                "last_caught": 1495663200,
+                "species_id": "42663"
+            },
+            "42850": {
+                "count": 6,
+                "last_caught": 1634162400,
+                "species_id": "42850"
+            },
+            "42617": {
+                "count": 3,
+                "last_caught": 1561932000,
+                "species_id": "42617"
+            },
+            "42631": {
+                "count": 4,
+                "last_caught": 618184800,
+                "species_id": "42631"
+            },
+            "42681": {
+                "count": 3,
+                "last_caught": 618184800,
+                "species_id": "42681"
+            },
+            "42635": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42635"
+            },
+            "42983": {
+                "count": 3,
+                "last_caught": 618184800,
+                "species_id": "42983"
+            }
+        },
+        "counties": [
+            "Akershus"
+        ],
+        "municipalities": [
+            "Asker",
+            "Bærum"
+        ]
+    },
+    "saltdalsvassdraget": {
+        "name": "Saltdalsvassdraget",
+        "length_meters": 78981.42,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 126,
+                "last_caught": 1325372400,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 126,
+                "last_caught": 1325372400,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Nordland"
+        ],
+        "municipalities": [
+            "Saltdal"
+        ]
+    },
+    "snåsavassdraget": {
+        "name": "Snåsavassdraget",
+        "length_meters": 113503.41,
+        "position": [],
+        "fish_species_count": 6,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 7,
+                "last_caught": 1709679600,
+                "species_id": "42663"
+            },
+            "42676": {
+                "count": 2,
+                "last_caught": 1353452400,
+                "species_id": "42676"
+            },
+            "42788": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42788"
+            },
+            "42681": {
+                "count": 2,
+                "last_caught": 1353452400,
+                "species_id": "42681"
+            },
+            "42850": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Snåsa",
+            "Steinkjer"
+        ]
+    },
+    "salsvatnvassdraget": {
+        "name": "Salsvatnvassdraget",
+        "length_meters": 50072.31,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42662": {
+                "count": 4,
+                "last_caught": 1692828000,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Namsos"
+        ]
+    },
+    "lakselvvassdraget": {
+        "name": "Lakselvvassdraget",
+        "length_meters": 103076.26,
+        "position": [],
+        "fish_species_count": 7,
+        "fish_data": {
+            "42662": {
+                "count": 462,
+                "last_caught": 904687200,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 100,
+                "last_caught": 904687200,
+                "species_id": "42663"
+            },
+            "42665": {
+                "count": 6,
+                "last_caught": 904687200,
+                "species_id": "42665"
+            },
+            "42788": {
+                "count": 2,
+                "last_caught": 514332000,
+                "species_id": "42788"
+            },
+            "42678": {
+                "count": 2,
+                "last_caught": 514332000,
+                "species_id": "42678"
+            },
+            "42681": {
+                "count": 2,
+                "last_caught": 514332000,
+                "species_id": "42681"
+            },
+            "42850": {
+                "count": 2,
+                "last_caught": 1563055200,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Porsanger"
+        ]
+    },
+    "børselvvassdraget": {
+        "name": "Børselvvassdraget",
+        "length_meters": 74480.43,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42672": {
+                "count": 4,
+                "last_caught": 1628892000,
+                "species_id": "42672"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Porsanger"
+        ]
+    },
+    "gusdalelva": {
+        "name": "Gusdalelva",
+        "length_meters": 18693.97,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Møre og Romsdal"
+        ],
+        "municipalities": [
+            "Vanylven"
+        ]
+    },
+    "lysakerelva": {
+        "name": "Lysakerelva",
+        "length_meters": 38890.76,
+        "position": [],
+        "fish_species_count": 8,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1635544800,
+                "species_id": "42662"
+            },
+            "42983": {
+                "count": 5,
+                "last_caught": 708472800,
+                "species_id": "42983"
+            },
+            "42635": {
+                "count": 18,
+                "last_caught": 1664488800,
+                "species_id": "42635"
+            },
+            "42663": {
+                "count": 13,
+                "last_caught": 1687557600,
+                "species_id": "42663"
+            },
+            "42681": {
+                "count": 3,
+                "last_caught": 708472800,
+                "species_id": "42681"
+            },
+            "42676": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42676"
+            },
+            "42456": {
+                "count": 2,
+                "last_caught": 961192800,
+                "species_id": "42456"
+            },
+            "42455": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42455"
+            }
+        },
+        "counties": [
+            "Akershus",
+            "Buskerud",
+            "Oslo"
+        ],
+        "municipalities": [
+            "Bærum",
+            "Oslo",
+            "Ringerike"
+        ]
+    },
+    "årosvassdraget": {
+        "name": "Årosvassdraget",
+        "length_meters": 30506.63402408,
+        "position": [],
+        "fish_species_count": 7,
+        "fish_data": {
+            "42631": {
+                "count": 4,
+                "last_caught": 1533765600,
+                "species_id": "42631"
+            },
+            "42663": {
+                "count": 7,
+                "last_caught": 1602194400,
+                "species_id": "42663"
+            },
+            "42635": {
+                "count": 6,
+                "last_caught": 1376949600,
+                "species_id": "42635"
+            },
+            "42983": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42983"
+            },
+            "42681": {
+                "count": 6,
+                "last_caught": 1556920800,
+                "species_id": "42681"
+            },
+            "42850": {
+                "count": 3,
+                "last_caught": 1508104800,
+                "species_id": "42850"
+            },
+            "42608": {
+                "count": 2,
+                "last_caught": 1625090400,
+                "species_id": "42608"
+            }
+        },
+        "counties": [
+            "Akershus",
+            "Buskerud"
+        ],
+        "municipalities": [
+            "Asker",
+            "Lier"
+        ]
+    },
+    "figgjo": {
+        "name": "Figgjo",
+        "length_meters": 45308.26300133,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42633": {
+                "count": 4,
+                "last_caught": 1686434400,
+                "species_id": "42633"
+            },
+            "42672": {
+                "count": 2,
+                "last_caught": 1483225200,
+                "species_id": "42672"
+            },
+            "42665": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Bjerkreim",
+            "Klepp"
+        ]
+    },
+    "aulivassdraget": {
+        "name": "Aulivassdraget",
+        "length_meters": 42483.12106082,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42621": {
+                "count": 2,
+                "last_caught": 1625954400,
+                "species_id": "42621"
+            },
+            "42628": {
+                "count": 3,
+                "last_caught": 926287200,
+                "species_id": "42628"
+            },
+            "42983": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42983"
+            },
+            "42681": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42681"
+            }
+        },
+        "counties": [
+            "Vestfold"
+        ],
+        "municipalities": [
+            "Holmestrand",
+            "Tønsberg"
+        ]
+    },
+    "valldøla": {
+        "name": "Valldøla",
+        "length_meters": 47111.17727321,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1503612000,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Møre og Romsdal"
+        ],
+        "municipalities": [
+            "Fjord"
+        ]
+    },
+    "vikadalselva": {
+        "name": "Vikadalselva",
+        "length_meters": 31603.83879372,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Vindafjord"
+        ]
+    },
+    "mossevassdraget": {
+        "name": "Mossevassdraget",
+        "length_meters": 103850.40709172,
+        "position": [],
+        "fish_species_count": 19,
+        "fish_data": {
+            "42631": {
+                "count": 25,
+                "last_caught": 1684360800,
+                "species_id": "42631"
+            },
+            "42617": {
+                "count": 3,
+                "last_caught": 1533074400,
+                "species_id": "42617"
+            },
+            "42613": {
+                "count": 23,
+                "last_caught": 1715205600,
+                "species_id": "42613"
+            },
+            "42681": {
+                "count": 8,
+                "last_caught": 1654293600,
+                "species_id": "42681"
+            },
+            "42627": {
+                "count": 7,
+                "last_caught": 1492380000,
+                "species_id": "42627"
+            },
+            "42788": {
+                "count": 12,
+                "last_caught": 1495317600,
+                "species_id": "42788"
+            },
+            "42983": {
+                "count": 15,
+                "last_caught": 1715205600,
+                "species_id": "42983"
+            },
+            "42986": {
+                "count": 164,
+                "last_caught": 1654293600,
+                "species_id": "42986"
+            },
+            "42663": {
+                "count": 13,
+                "last_caught": 1687816800,
+                "species_id": "42663"
+            },
+            "42621": {
+                "count": 3,
+                "last_caught": 1190239200,
+                "species_id": "42621"
+            },
+            "42615": {
+                "count": 7,
+                "last_caught": 1654293600,
+                "species_id": "42615"
+            },
+            "42635": {
+                "count": 3,
+                "last_caught": 1686261600,
+                "species_id": "42635"
+            },
+            "42990": {
+                "count": 3,
+                "last_caught": 1654293600,
+                "species_id": "42990"
+            },
+            "42633": {
+                "count": 2,
+                "last_caught": 1654293600,
+                "species_id": "42633"
+            },
+            "42456": {
+                "count": 2,
+                "last_caught": 1686261600,
+                "species_id": "42456"
+            },
+            "42629": {
+                "count": 2,
+                "last_caught": 1319148000,
+                "species_id": "42629"
+            },
+            "42850": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42850"
+            },
+            "42657": {
+                "count": 2,
+                "last_caught": 1654293600,
+                "species_id": "42657"
+            },
+            "42610": {
+                "count": 1,
+                "last_caught": 1686261600,
+                "species_id": "42610"
+            }
+        },
+        "counties": [
+            "Akershus",
+            "Østfold"
+        ],
+        "municipalities": [
+            "Enebakk",
+            "Indre Østfold",
+            "Moss",
+            "Nordre Follo",
+            "Råde",
+            "Våler"
+        ]
+    },
+    "nordmarkvassdraget": {
+        "name": "Nordmarkvassdraget",
+        "length_meters": 51143.99156747,
+        "position": [],
+        "fish_species_count": 9,
+        "fish_data": {
+            "42665": {
+                "count": 22,
+                "last_caught": 719017200,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 2138,
+                "last_caught": 1445292000,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 136,
+                "last_caught": 1543100400,
+                "species_id": "42662"
+            },
+            "42456": {
+                "count": 4,
+                "last_caught": 1715810400,
+                "species_id": "42456"
+            },
+            "42631": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42631"
+            },
+            "42983": {
+                "count": 7,
+                "last_caught": 1726956000,
+                "species_id": "42983"
+            },
+            "42635": {
+                "count": 7,
+                "last_caught": 1655589600,
+                "species_id": "42635"
+            },
+            "42608": {
+                "count": 2,
+                "last_caught": 1591048800,
+                "species_id": "42608"
+            },
+            "42681": {
+                "count": 2,
+                "last_caught": 1494021600,
+                "species_id": "42681"
+            }
+        },
+        "counties": [
+            "Akershus",
+            "Buskerud",
+            "Oslo"
+        ],
+        "municipalities": [
+            "Lunner",
+            "Oslo",
+            "Ringerike"
+        ]
+    },
+    "lierelva": {
+        "name": "Lierelva",
+        "length_meters": 46209.28695284,
+        "position": [],
+        "fish_species_count": 5,
+        "fish_data": {
+            "42663": {
+                "count": 3,
+                "last_caught": 1720216800,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 2,
+                "last_caught": 1476050400,
+                "species_id": "42662"
+            },
+            "42672": {
+                "count": 2,
+                "last_caught": 1483225200,
+                "species_id": "42672"
+            },
+            "42983": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42983"
+            },
+            "42608": {
+                "count": 1,
+                "last_caught": 1625090400,
+                "species_id": "42608"
+            }
+        },
+        "counties": [
+            "Buskerud"
+        ],
+        "municipalities": [
+            "Lier"
+        ]
+    },
+    "lygna": {
+        "name": "Lygna",
+        "length_meters": 81737.63550193,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42662": {
+                "count": 24,
+                "last_caught": 1501538400,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 18,
+                "last_caught": 1721772000,
+                "species_id": "42663"
+            },
+            "42850": {
+                "count": 10,
+                "last_caught": 1189202400,
+                "species_id": "42850"
+            },
+            "42455": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42455"
+            }
+        },
+        "counties": [
+            "Agder"
+        ],
+        "municipalities": [
+            "Hægebostad",
+            "Lyngdal"
+        ]
+    },
+    "årdalselva": {
+        "name": "Årdalselva",
+        "length_meters": 53887.96944476,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 1,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Sandnes"
+        ]
+    },
+    "verdalsvassdraget": {
+        "name": "Verdalsvassdraget",
+        "length_meters": 94114.82149635,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42663": {
+                "count": 6,
+                "last_caught": 1633125600,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 4,
+                "last_caught": 1535234400,
+                "species_id": "42662"
+            },
+            "42665": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            },
+            "42788": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42788"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Verdal"
+        ]
+    },
+    "storelva": {
+        "name": "Storelva",
+        "length_meters": 56071.81137245,
+        "position": [],
+        "fish_species_count": 7,
+        "fish_data": {
+            "42663": {
+                "count": 17,
+                "last_caught": 1666303200,
+                "species_id": "42663"
+            },
+            "42665": {
+                "count": 9,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            },
+            "42681": {
+                "count": 4,
+                "last_caught": 1304892000,
+                "species_id": "42681"
+            },
+            "42983": {
+                "count": 8,
+                "last_caught": 1304892000,
+                "species_id": "42983"
+            },
+            "42850": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42850"
+            },
+            "42628": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42628"
+            },
+            "42662": {
+                "count": 6,
+                "last_caught": 1666303200,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Buskerud",
+            "Møre og Romsdal",
+            "Nordland",
+            "Telemark",
+            "Trøndelag",
+            "Vestfold",
+            "Vestland"
+        ],
+        "municipalities": [
+            "Drangedal",
+            "Gloppen",
+            "Heim",
+            "Kongsberg",
+            "Leirfjord",
+            "Nærøysund",
+            "Sandefjord",
+            "Stad",
+            "Stranda",
+            "Volda"
+        ]
+    },
+    "russelvvassdraget": {
+        "name": "Russelvvassdraget",
+        "length_meters": 36120.68871856,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 1,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            },
+            "42665": {
+                "count": 1,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Porsanger"
+        ]
+    },
+    "teksdalselva": {
+        "name": "Teksdalselva",
+        "length_meters": 28650.46580332,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 2,
+                "last_caught": 1624312800,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 2,
+                "last_caught": 1625608800,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Ørland"
+        ]
+    },
+    "oppløyelva": {
+        "name": "Oppløyelva",
+        "length_meters": 24966.84862237,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Nærøysund"
+        ]
+    },
+    "stordalselva": {
+        "name": "Stordalselva",
+        "length_meters": 48513.15756348,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1118613600,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Åfjord"
+        ]
+    },
+    "lakselva fra trollbuvatnet": {
+        "name": "Lakselva fra Trollbuvatnet",
+        "length_meters": 35645.04352494,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42850": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Troms"
+        ],
+        "municipalities": [
+            "Senja"
+        ]
+    },
+    "storelva (burfjorden)": {
+        "name": "Storelva (burfjorden)",
+        "length_meters": 31887.63017325,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42665": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Troms"
+        ],
+        "municipalities": [
+            "Kvænangen"
+        ]
+    },
+    "langfjordvassdraget": {
+        "name": "Langfjordvassdraget",
+        "length_meters": 44744.77204098,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1563746400,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Gamvik"
+        ]
+    },
+    "haldenvassdraget": {
+        "name": "Haldenvassdraget",
+        "length_meters": 149225.37035614,
+        "position": [],
+        "fish_species_count": 19,
+        "fish_data": {
+            "42983": {
+                "count": 303,
+                "last_caught": 1720044000,
+                "species_id": "42983"
+            },
+            "42990": {
+                "count": 187,
+                "last_caught": 402274800,
+                "species_id": "42990"
+            },
+            "42788": {
+                "count": 42,
+                "last_caught": 1349992800,
+                "species_id": "42788"
+            },
+            "42615": {
+                "count": 48,
+                "last_caught": 1654552800,
+                "species_id": "42615"
+            },
+            "42657": {
+                "count": 33,
+                "last_caught": 1508450400,
+                "species_id": "42657"
+            },
+            "42633": {
+                "count": 5,
+                "last_caught": 1632434400,
+                "species_id": "42633"
+            },
+            "42631": {
+                "count": 30,
+                "last_caught": 1654552800,
+                "species_id": "42631"
+            },
+            "42681": {
+                "count": 17,
+                "last_caught": 1512255600,
+                "species_id": "42681"
+            },
+            "42621": {
+                "count": 13,
+                "last_caught": 1685397600,
+                "species_id": "42621"
+            },
+            "42629": {
+                "count": 6,
+                "last_caught": 1504562400,
+                "species_id": "42629"
+            },
+            "42628": {
+                "count": 10,
+                "last_caught": 1625349600,
+                "species_id": "42628"
+            },
+            "42613": {
+                "count": 8,
+                "last_caught": 1625349600,
+                "species_id": "42613"
+            },
+            "42896": {
+                "count": 8,
+                "last_caught": 1380146400,
+                "species_id": "42896"
+            },
+            "42895": {
+                "count": 9,
+                "last_caught": 1689976800,
+                "species_id": "42895"
+            },
+            "42635": {
+                "count": 6,
+                "last_caught": 1529964000,
+                "species_id": "42635"
+            },
+            "42456": {
+                "count": 2,
+                "last_caught": 1290207600,
+                "species_id": "42456"
+            },
+            "42455": {
+                "count": 2,
+                "last_caught": 1291935600,
+                "species_id": "42455"
+            },
+            "42980": {
+                "count": 1,
+                "last_caught": 1720044000,
+                "species_id": "42980"
+            },
+            "42665": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Akershus",
+            "Østfold"
+        ],
+        "municipalities": [
+            "Aremark",
+            "Aurskog-Høland",
+            "Halden",
+            "Indre Østfold",
+            "Marker",
+            "Nes"
+        ]
+    },
+    "driva": {
+        "name": "Driva",
+        "length_meters": 139629.46653335,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42662": {
+                "count": 86,
+                "last_caught": 1471384800,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 110,
+                "last_caught": 1629583200,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Møre og Romsdal",
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Oppdal",
+            "Sunndal"
+        ]
+    },
+    "årgårdsvassdraget": {
+        "name": "Årgårdsvassdraget",
+        "length_meters": 40871.89264769,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 1,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Namsos"
+        ]
+    },
+    "sandevassdraget": {
+        "name": "Sandevassdraget",
+        "length_meters": 33720.61506854,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42453": {
+                "count": 2,
+                "last_caught": 679356000,
+                "species_id": "42453"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1445292000,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Vestfold"
+        ],
+        "municipalities": [
+            "Holmestrand"
+        ]
+    },
+    "komagelva": {
+        "name": "Komagelva",
+        "length_meters": 48775.13148249,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 1405634400,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1405634400,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 2,
+                "last_caught": 1405634400,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Vardø"
+        ]
+    },
+    "frafjordelva": {
+        "name": "Frafjordelva",
+        "length_meters": 34896.94313208,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42666": {
+                "count": 2,
+                "last_caught": 1687298400,
+                "species_id": "42666"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Gjesdal"
+        ]
+    },
+    "vesterelvvassdraget": {
+        "name": "Vesterelvvassdraget",
+        "length_meters": 49296.97283003,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Vadsø"
+        ]
+    },
+    "aurlandsvassdraget": {
+        "name": "Aurlandsvassdraget",
+        "length_meters": 56616.13172541,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 1,
+                "last_caught": 1661637600,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Aurland"
+        ]
+    },
+    "etnevassdraget": {
+        "name": "Etnevassdraget",
+        "length_meters": 37857.3267189,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 1712268000,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Etne"
+        ]
+    },
+    "eksingedalsvassdraget": {
+        "name": "Eksingedalsvassdraget",
+        "length_meters": 61814.6421936,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42665": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Voss"
+        ]
+    },
+    "reisavassdraget": {
+        "name": "Reisavassdraget",
+        "length_meters": 128942.781727,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42665": {
+                "count": 10,
+                "last_caught": 904946400,
+                "species_id": "42665"
+            },
+            "42662": {
+                "count": 6,
+                "last_caught": 904946400,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 904946400,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Troms"
+        ],
+        "municipalities": [
+            "Nordreisa"
+        ]
+    },
+    "tana": {
+        "name": "Tana",
+        "length_meters": 368827.10571317,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 4,
+                "last_caught": 803685600,
+                "species_id": "42663"
+            },
+            "42681": {
+                "count": 1,
+                "last_caught": 1724191200,
+                "species_id": "42681"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Tana"
+        ]
+    },
+    "upperudsälven": {
+        "name": "Upperudsälven",
+        "length_meters": 114472.14555207,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42681": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42681"
+            },
+            "42983": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42983"
+            },
+            "42635": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42635"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1654725600,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Akershus",
+            "Østfold"
+        ],
+        "municipalities": [
+            "Aremark",
+            "Aurskog-Høland"
+        ]
+    },
+    "trysilelva": {
+        "name": "Trysilelva",
+        "length_meters": 256685.49293954,
+        "position": [],
+        "fish_species_count": 8,
+        "fish_data": {
+            "42676": {
+                "count": 27,
+                "last_caught": 994975200,
+                "species_id": "42676"
+            },
+            "42678": {
+                "count": 20,
+                "last_caught": 0,
+                "species_id": "42678"
+            },
+            "42635": {
+                "count": 19,
+                "last_caught": 0,
+                "species_id": "42635"
+            },
+            "42663": {
+                "count": 5,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            },
+            "42681": {
+                "count": 4,
+                "last_caught": 1507672800,
+                "species_id": "42681"
+            },
+            "42983": {
+                "count": 5,
+                "last_caught": 1507672800,
+                "species_id": "42983"
+            },
+            "42665": {
+                "count": 9,
+                "last_caught": 1146348000,
+                "species_id": "42665"
+            },
+            "42788": {
+                "count": 1,
+                "last_caught": 1420066800,
+                "species_id": "42788"
+            }
+        },
+        "counties": [
+            "Innlandet",
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Engerdal",
+            "Røros",
+            "Trysil"
+        ]
+    },
+    "indalsälven": {
+        "name": "Indalsälven ",
+        "length_meters": 152624.87714368,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42788": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42788"
+            },
+            "42665": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42678": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42678"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Snåsa"
+        ]
+    },
+    "gaularvassdraget": {
+        "name": "Gaularvassdraget",
+        "length_meters": 73364.47524629,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 1,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Sunnfjord"
+        ]
+    },
+    "strömsån": {
+        "name": "Strömsån",
+        "length_meters": 15165.94624187,
+        "position": [],
+        "fish_species_count": 10,
+        "fish_data": {
+            "42852": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42852"
+            },
+            "42631": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42631"
+            },
+            "42663": {
+                "count": 6,
+                "last_caught": 0,
+                "species_id": "42663"
+            },
+            "42676": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42676"
+            },
+            "42627": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42627"
+            },
+            "42850": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42850"
+            },
+            "42983": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42983"
+            },
+            "42681": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42681"
+            },
+            "42635": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42635"
+            },
+            "42628": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42628"
+            }
+        },
+        "counties": [
+            "Østfold"
+        ],
+        "municipalities": [
+            "Halden"
+        ]
+    },
+    "byälven-mangenvassdraget": {
+        "name": "Byälven-mangenvassdraget",
+        "length_meters": 118637.60928407,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42631": {
+                "count": 1,
+                "last_caught": 1436565600,
+                "species_id": "42631"
+            },
+            "42983": {
+                "count": 4,
+                "last_caught": 1468620000,
+                "species_id": "42983"
+            },
+            "42681": {
+                "count": 2,
+                "last_caught": 1468620000,
+                "species_id": "42681"
+            },
+            "42788": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42788"
+            }
+        },
+        "counties": [
+            "Akershus",
+            "Innlandet"
+        ],
+        "municipalities": [
+            "Eidskog",
+            "Nes"
+        ]
+    },
+    "osenvassdraget": {
+        "name": "Osenvassdraget",
+        "length_meters": 23556.83441614,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1622498400,
+                "species_id": "42662"
+            },
+            "42665": {
+                "count": 3,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42850": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42850"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1622498400,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Møre og Romsdal"
+        ],
+        "municipalities": [
+            "Molde"
+        ]
+    },
+    "sulitjelmavassdraget": {
+        "name": "Sulitjelmavassdraget",
+        "length_meters": 86455.76621012,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 2,
+                "last_caught": 1689112800,
+                "species_id": "42663"
+            },
+            "42665": {
+                "count": 1,
+                "last_caught": 1584226800,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Nordland"
+        ],
+        "municipalities": [
+            "Fauske",
+            "Saltdal"
+        ]
+    },
+    "blåelva": {
+        "name": "Blåelva",
+        "length_meters": 36788.03194251,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 1,
+                "last_caught": 1716674400,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Kvinnherad"
+        ]
+    },
+    "numedalslågen": {
+        "name": "Numedalslågen",
+        "length_meters": 357724.17299491,
+        "position": [],
+        "fish_species_count": 8,
+        "fish_data": {
+            "42663": {
+                "count": 1785,
+                "last_caught": 1699311600,
+                "species_id": "42663"
+            },
+            "42676": {
+                "count": 56,
+                "last_caught": 1250200800,
+                "species_id": "42676"
+            },
+            "42665": {
+                "count": 406,
+                "last_caught": 1161036000,
+                "species_id": "42665"
+            },
+            "42983": {
+                "count": 483,
+                "last_caught": 1535407200,
+                "species_id": "42983"
+            },
+            "42662": {
+                "count": 46,
+                "last_caught": 1563573600,
+                "species_id": "42662"
+            },
+            "42681": {
+                "count": 73,
+                "last_caught": 1716415200,
+                "species_id": "42681"
+            },
+            "42635": {
+                "count": 3,
+                "last_caught": 1717279200,
+                "species_id": "42635"
+            },
+            "42456": {
+                "count": 3,
+                "last_caught": 1716415200,
+                "species_id": "42456"
+            }
+        },
+        "counties": [
+            "Buskerud",
+            "Vestfold",
+            "Vestland"
+        ],
+        "municipalities": [
+            "Eidfjord",
+            "Kongsberg",
+            "Larvik",
+            "Nore og Uvdal",
+            "Rollag"
+        ]
+    },
+    "bergsdalsvassdraget": {
+        "name": "Bergsdalsvassdraget",
+        "length_meters": 41986.68664084,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 1,
+                "last_caught": 1300575600,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Voss"
+        ]
+    },
+    "oselvvassdraget": {
+        "name": "Oselvvassdraget",
+        "length_meters": 48537.13442432,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42665": {
+                "count": 7,
+                "last_caught": 0,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Gloppen",
+            "Kinn"
+        ]
+    },
+    "eira": {
+        "name": "Eira",
+        "length_meters": 87214.68439249,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 11,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            },
+            "42665": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Innlandet",
+            "Møre og Romsdal"
+        ],
+        "municipalities": [
+            "Lesja",
+            "Molde"
+        ]
+    },
+    "høyangervassdraget": {
+        "name": "Høyangervassdraget",
+        "length_meters": 17957.17172992,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42672": {
+                "count": 2,
+                "last_caught": 1483225200,
+                "species_id": "42672"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Høyanger"
+        ]
+    },
+    "kåfjordvassdraget": {
+        "name": "Kåfjordvassdraget",
+        "length_meters": 43442.28022328,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 460245600,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Troms"
+        ],
+        "municipalities": [
+            "Kåfjord"
+        ]
+    },
+    "lakselva": {
+        "name": "Lakselva",
+        "length_meters": 26358.59759417,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42665": {
+                "count": 6,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42850": {
+                "count": 3,
+                "last_caught": 870213600,
+                "species_id": "42850"
+            },
+            "42662": {
+                "count": 2,
+                "last_caught": 745279200,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Nordland",
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Bodø",
+            "Fauske",
+            "Hitra"
+        ]
+    },
+    "nidelvvassdraget": {
+        "name": "Nidelvvassdraget",
+        "length_meters": 176431.87385132,
+        "position": [],
+        "fish_species_count": 7,
+        "fish_data": {
+            "42681": {
+                "count": 12,
+                "last_caught": 1596664800,
+                "species_id": "42681"
+            },
+            "42662": {
+                "count": 8,
+                "last_caught": 1687903200,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 8,
+                "last_caught": 1527976800,
+                "species_id": "42663"
+            },
+            "42635": {
+                "count": 6,
+                "last_caught": 1308693600,
+                "species_id": "42635"
+            },
+            "42788": {
+                "count": 4,
+                "last_caught": 1731279600,
+                "species_id": "42788"
+            },
+            "42665": {
+                "count": 3,
+                "last_caught": 707349600,
+                "species_id": "42665"
+            },
+            "42610": {
+                "count": 1,
+                "last_caught": 1342821600,
+                "species_id": "42610"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Trondheim",
+            "Tydal"
+        ]
+    },
+    "breimsvassdraget": {
+        "name": "Breimsvassdraget",
+        "length_meters": 53718.60431044,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42665": {
+                "count": 3,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 3,
+                "last_caught": 1655157600,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 1,
+                "last_caught": 1655157600,
+                "species_id": "42662"
+            },
+            "42850": {
+                "count": 2,
+                "last_caught": 1655157600,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Gloppen"
+        ]
+    },
+    "surna": {
+        "name": "Surna",
+        "length_meters": 68719.48526015,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42665": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42850": {
+                "count": 9,
+                "last_caught": 1572735600,
+                "species_id": "42850"
+            },
+            "42663": {
+                "count": 1,
+                "last_caught": 1561068000,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Møre og Romsdal",
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Rindal",
+            "Surnadal"
+        ]
+    },
+    "pasvikelva": {
+        "name": "Pasvikelva",
+        "length_meters": 385333.78149348,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 6,
+                "last_caught": 1058220000,
+                "species_id": "42663"
+            },
+            "42676": {
+                "count": 2,
+                "last_caught": 206233200,
+                "species_id": "42676"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Sør-Varanger"
+        ]
+    },
+    "orkla": {
+        "name": "Orkla",
+        "length_meters": 184763.99419311,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1531864800,
+                "species_id": "42662"
+            },
+            "42665": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 1,
+                "last_caught": 1703545200,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Orkland",
+            "Rennebu"
+        ]
+    },
+    "jørpelandsåna": {
+        "name": "Jørpelandsåna",
+        "length_meters": 25391.31278564,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 2,
+                "last_caught": 1193263200,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 4,
+                "last_caught": 1193263200,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Strand"
+        ]
+    },
+    "rauma": {
+        "name": "Rauma",
+        "length_meters": 74053.28636382,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42662": {
+                "count": 1,
+                "last_caught": 1377900000,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Møre og Romsdal"
+        ],
+        "municipalities": [
+            "Rauma"
+        ]
+    },
+    "stjørdalsvassdraget": {
+        "name": "Stjørdalsvassdraget",
+        "length_meters": 83534.88954758,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1569708000,
+                "species_id": "42662"
+            },
+            "42850": {
+                "count": 1,
+                "last_caught": 1407103200,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Meråker",
+            "Stjørdal"
+        ]
+    },
+    "guddalsvassdraget": {
+        "name": "Guddalsvassdraget",
+        "length_meters": 39905.99533236,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42665": {
+                "count": 5,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 1,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            },
+            "42850": {
+                "count": 1,
+                "last_caught": 1420066800,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Fjaler"
+        ]
+    },
+    "audna": {
+        "name": "Audna",
+        "length_meters": 64543.85257813,
+        "position": [],
+        "fish_species_count": 5,
+        "fish_data": {
+            "42662": {
+                "count": 14,
+                "last_caught": 1527976800,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 22,
+                "last_caught": 1721772000,
+                "species_id": "42663"
+            },
+            "42617": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42617"
+            },
+            "42456": {
+                "count": 4,
+                "last_caught": 1189116000,
+                "species_id": "42456"
+            },
+            "42672": {
+                "count": 2,
+                "last_caught": 1483225200,
+                "species_id": "42672"
+            }
+        },
+        "counties": [
+            "Agder"
+        ],
+        "municipalities": [
+            "Lindesnes",
+            "Lyngdal"
+        ]
+    },
+    "reppenelva": {
+        "name": "Reppenelva",
+        "length_meters": 33522.37782058,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Finnmark"
+        ],
+        "municipalities": [
+            "Nesseby"
+        ]
+    },
+    "tovdalsvassdraget": {
+        "name": "Tovdalsvassdraget",
+        "length_meters": 150033.42359487,
+        "position": [],
+        "fish_species_count": 6,
+        "fish_data": {
+            "42617": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42617"
+            },
+            "42662": {
+                "count": 8,
+                "last_caught": 1690495200,
+                "species_id": "42662"
+            },
+            "42983": {
+                "count": 7,
+                "last_caught": 1690495200,
+                "species_id": "42983"
+            },
+            "42676": {
+                "count": 3,
+                "last_caught": 0,
+                "species_id": "42676"
+            },
+            "42663": {
+                "count": 8,
+                "last_caught": 1690754400,
+                "species_id": "42663"
+            },
+            "42456": {
+                "count": 1,
+                "last_caught": 1464040800,
+                "species_id": "42456"
+            }
+        },
+        "counties": [
+            "Agder"
+        ],
+        "municipalities": [
+            "Birkenes",
+            "Froland",
+            "Kristiansand",
+            "Åmli"
+        ]
+    },
+    "hølenelva": {
+        "name": "Hølenelva",
+        "length_meters": 26016.26715124,
+        "position": [],
+        "fish_species_count": 7,
+        "fish_data": {
+            "42663": {
+                "count": 2,
+                "last_caught": 1537740000,
+                "species_id": "42663"
+            },
+            "42631": {
+                "count": 3,
+                "last_caught": 1379541600,
+                "species_id": "42631"
+            },
+            "42662": {
+                "count": 2,
+                "last_caught": 1537740000,
+                "species_id": "42662"
+            },
+            "42610": {
+                "count": 4,
+                "last_caught": 1034632800,
+                "species_id": "42610"
+            },
+            "42681": {
+                "count": 3,
+                "last_caught": 1537740000,
+                "species_id": "42681"
+            },
+            "42983": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42983"
+            },
+            "42621": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42621"
+            }
+        },
+        "counties": [
+            "Akershus"
+        ],
+        "municipalities": [
+            "Nordre Follo",
+            "Vestby"
+        ]
+    },
+    "sævareidvassdraget": {
+        "name": "Sævareidvassdraget",
+        "length_meters": 22255.73661819,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42665": {
+                "count": 190,
+                "last_caught": 368748000,
+                "species_id": "42665"
+            },
+            "42669": {
+                "count": 20,
+                "last_caught": 368661600,
+                "species_id": "42669"
+            },
+            "42663": {
+                "count": 60,
+                "last_caught": 368748000,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Bjørnafjorden"
+        ]
+    },
+    "namsen": {
+        "name": "Namsen",
+        "length_meters": 230022.11209301,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42663": {
+                "count": 6,
+                "last_caught": 1218578400,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 2,
+                "last_caught": 1188424800,
+                "species_id": "42662"
+            },
+            "42665": {
+                "count": 1,
+                "last_caught": 1078095600,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Nordland",
+            "Trøndelag"
+        ],
+        "municipalities": [
+            "Grane",
+            "Grong",
+            "Røyrvik"
+        ]
+    },
+    "gjengedalsvassdraget": {
+        "name": "Gjengedalsvassdraget",
+        "length_meters": 33026.47632218,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Gloppen"
+        ]
+    },
+    "vefsna": {
+        "name": "Vefsna",
+        "length_meters": 166151.79928713,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42663": {
+                "count": 2,
+                "last_caught": 1470866400,
+                "species_id": "42663"
+            },
+            "42676": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42676"
+            },
+            "42665": {
+                "count": 2,
+                "last_caught": 856220400,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Nordland"
+        ],
+        "municipalities": [
+            "Grane",
+            "Hattfjelldal",
+            "Vefsn"
+        ]
+    },
+    "hellemovassdraget": {
+        "name": "Hellemovassdraget",
+        "length_meters": 17369.45842076,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Nordland"
+        ],
+        "municipalities": [
+            "Hamarøy"
+        ]
+    },
+    "ranavassdraget": {
+        "name": "Ranavassdraget",
+        "length_meters": 97570.82028418,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1627682400,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Nordland"
+        ],
+        "municipalities": [
+            "Rana"
+        ]
+    },
+    "samnangervassdraget": {
+        "name": "Samnangervassdraget",
+        "length_meters": 30492.77511414,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42665": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Samnanger"
+        ]
+    },
+    "bjerkreimvassdraget": {
+        "name": "Bjerkreimvassdraget",
+        "length_meters": 73383.82188749,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42672": {
+                "count": 2,
+                "last_caught": 1483225200,
+                "species_id": "42672"
+            },
+            "42663": {
+                "count": 5,
+                "last_caught": 1690927200,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 8,
+                "last_caught": 1715205600,
+                "species_id": "42662"
+            },
+            "42665": {
+                "count": 3,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Bjerkreim",
+            "Eigersund"
+        ]
+    },
+    "lærdalsvassdraget": {
+        "name": "Lærdalsvassdraget",
+        "length_meters": 81115.86563773,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42663": {
+                "count": 1268,
+                "last_caught": 1660946400,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 64,
+                "last_caught": 746748000,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Lærdal"
+        ]
+    },
+    "kobbelvvassdraget": {
+        "name": "KOBBELVVASSDRAGET",
+        "length_meters": 46475.41180856,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 2,
+                "last_caught": 1627941600,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Nordland"
+        ],
+        "municipalities": [
+            "Hamarøy"
+        ]
+    },
+    "mandalselva": {
+        "name": "Mandalselva",
+        "length_meters": 138484.83034169,
+        "position": [],
+        "fish_species_count": 10,
+        "fish_data": {
+            "42662": {
+                "count": 63,
+                "last_caught": 1721080800,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 16,
+                "last_caught": 1721340000,
+                "species_id": "42663"
+            },
+            "42665": {
+                "count": 3,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42633": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42633"
+            },
+            "42672": {
+                "count": 2,
+                "last_caught": 1483225200,
+                "species_id": "42672"
+            },
+            "42635": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42635"
+            },
+            "42850": {
+                "count": 2,
+                "last_caught": 1721340000,
+                "species_id": "42850"
+            },
+            "42666": {
+                "count": 2,
+                "last_caught": 1719784800,
+                "species_id": "42666"
+            },
+            "42983": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42983"
+            },
+            "42456": {
+                "count": 1,
+                "last_caught": 1721340000,
+                "species_id": "42456"
+            }
+        },
+        "counties": [
+            "Agder"
+        ],
+        "municipalities": [
+            "Bygland",
+            "Lindesnes",
+            "Åseral"
+        ]
+    },
+    "stigedalselva": {
+        "name": "Stigedalselva",
+        "length_meters": 26028.04333828,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42850": {
+                "count": 4,
+                "last_caught": 0,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Møre og Romsdal"
+        ],
+        "municipalities": [
+            "Volda"
+        ]
+    },
+    "røssåga": {
+        "name": "Røssåga",
+        "length_meters": 99557.97311528,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42665": {
+                "count": 3,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42672": {
+                "count": 2,
+                "last_caught": 1483225200,
+                "species_id": "42672"
+            }
+        },
+        "counties": [
+            "Nordland"
+        ],
+        "municipalities": [
+            "Hattfjelldal",
+            "Hemnes"
+        ]
+    },
+    "vossovassdraget": {
+        "name": "Vossovassdraget",
+        "length_meters": 82461.74755353,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42850": {
+                "count": 7,
+                "last_caught": 785631600,
+                "species_id": "42850"
+            },
+            "42665": {
+                "count": 12,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 3,
+                "last_caught": 1536184800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Voss"
+        ]
+    },
+    "lysevassdraget": {
+        "name": "Lysevassdraget",
+        "length_meters": 16746.37311806,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1476482400,
+                "species_id": "42662"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Sandnes"
+        ]
+    },
+    "otra": {
+        "name": "Otra",
+        "length_meters": 249817.76496113,
+        "position": [],
+        "fish_species_count": 3,
+        "fish_data": {
+            "42662": {
+                "count": 2,
+                "last_caught": 1660946400,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 4,
+                "last_caught": 1689199200,
+                "species_id": "42663"
+            },
+            "42635": {
+                "count": 1,
+                "last_caught": 1692136800,
+                "species_id": "42635"
+            }
+        },
+        "counties": [
+            "Agder"
+        ],
+        "municipalities": [
+            "Evje og Hornnes",
+            "Kristiansand",
+            "Vennesla"
+        ]
+    },
+    "kvina": {
+        "name": "Kvina",
+        "length_meters": 151649.15380404,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42662": {
+                "count": 10,
+                "last_caught": 1189375200,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 14,
+                "last_caught": 1713564000,
+                "species_id": "42663"
+            },
+            "42666": {
+                "count": 3,
+                "last_caught": 1497736800,
+                "species_id": "42666"
+            },
+            "42665": {
+                "count": 2,
+                "last_caught": 1310248800,
+                "species_id": "42665"
+            }
+        },
+        "counties": [
+            "Agder"
+        ],
+        "municipalities": [
+            "Bygland",
+            "Kvinesdal",
+            "Sirdal",
+            "Valle"
+        ]
+    },
+    "saudavassdraget": {
+        "name": "Saudavassdraget",
+        "length_meters": 38444.48155439,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 2,
+                "last_caught": 1318024800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Sauda"
+        ]
+    },
+    "skiensvassdraget": {
+        "name": "Skiensvassdraget",
+        "length_meters": 270999.78995375,
+        "position": [],
+        "fish_species_count": 10,
+        "fish_data": {
+            "42663": {
+                "count": 131,
+                "last_caught": 1503352800,
+                "species_id": "42663"
+            },
+            "42665": {
+                "count": 44,
+                "last_caught": 1503352800,
+                "species_id": "42665"
+            },
+            "42610": {
+                "count": 2,
+                "last_caught": 1466546400,
+                "species_id": "42610"
+            },
+            "42983": {
+                "count": 4,
+                "last_caught": 1623967200,
+                "species_id": "42983"
+            },
+            "42676": {
+                "count": 3,
+                "last_caught": 1623967200,
+                "species_id": "42676"
+            },
+            "42681": {
+                "count": 3,
+                "last_caught": 1660514400,
+                "species_id": "42681"
+            },
+            "42657": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42657"
+            },
+            "42635": {
+                "count": 2,
+                "last_caught": 1691013600,
+                "species_id": "42635"
+            },
+            "42455": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42455"
+            },
+            "42850": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Telemark"
+        ],
+        "municipalities": [
+            "Nome",
+            "Notodden",
+            "Skien",
+            "Tinn",
+            "Vinje"
+        ]
+    },
+    "sørelva": {
+        "name": "Sørelva",
+        "length_meters": 34037.04419845,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42665": {
+                "count": 6,
+                "last_caught": 1420066800,
+                "species_id": "42665"
+            },
+            "42663": {
+                "count": 4,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Finnmark",
+            "Vestland"
+        ],
+        "municipalities": [
+            "Alta",
+            "Etne",
+            "Sunnfjord"
+        ]
+    },
+    "sira": {
+        "name": "Sira",
+        "length_meters": 151535.84123632,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42663": {
+                "count": 10,
+                "last_caught": 1689285600,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Agder"
+        ],
+        "municipalities": [
+            "Sirdal"
+        ]
+    },
+    "målselvvassdraget": {
+        "name": "Målselvvassdraget",
+        "length_meters": 139622.59749494,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42663": {
+                "count": 4,
+                "last_caught": 1285884000,
+                "species_id": "42663"
+            },
+            "42678": {
+                "count": 2,
+                "last_caught": 1285797600,
+                "species_id": "42678"
+            },
+            "42665": {
+                "count": 2,
+                "last_caught": 1285884000,
+                "species_id": "42665"
+            },
+            "42681": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42681"
+            }
+        },
+        "counties": [
+            "Troms"
+        ],
+        "municipalities": [
+            "Målselv"
+        ]
+    },
+    "kragerøvassdraget": {
+        "name": "Kragerøvassdraget",
+        "length_meters": 92458.38516775,
+        "position": [],
+        "fish_species_count": 7,
+        "fish_data": {
+            "42852": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42852"
+            },
+            "42983": {
+                "count": 3,
+                "last_caught": 1420066800,
+                "species_id": "42983"
+            },
+            "42666": {
+                "count": 2,
+                "last_caught": 1420066800,
+                "species_id": "42666"
+            },
+            "42633": {
+                "count": 3,
+                "last_caught": 1420066800,
+                "species_id": "42633"
+            },
+            "42663": {
+                "count": 5,
+                "last_caught": 1420066800,
+                "species_id": "42663"
+            },
+            "42850": {
+                "count": 1,
+                "last_caught": 1720908000,
+                "species_id": "42850"
+            },
+            "42610": {
+                "count": 1,
+                "last_caught": 1688853600,
+                "species_id": "42610"
+            }
+        },
+        "counties": [
+            "Telemark"
+        ],
+        "municipalities": [
+            "Drangedal",
+            "Kragerø"
+        ]
+    },
+    "suldalsvassdraget": {
+        "name": "Suldalsvassdraget",
+        "length_meters": 110460.41174034,
+        "position": [],
+        "fish_species_count": 4,
+        "fish_data": {
+            "42663": {
+                "count": 7966,
+                "last_caught": 1086386400,
+                "species_id": "42663"
+            },
+            "42662": {
+                "count": 28179,
+                "last_caught": 1086559200,
+                "species_id": "42662"
+            },
+            "42669": {
+                "count": 6,
+                "last_caught": 650844000,
+                "species_id": "42669"
+            },
+            "42850": {
+                "count": 10,
+                "last_caught": 1053727200,
+                "species_id": "42850"
+            }
+        },
+        "counties": [
+            "Rogaland"
+        ],
+        "municipalities": [
+            "Suldal"
+        ]
+    },
+    "årøyvassdraget": {
+        "name": "Årøyvassdraget",
+        "length_meters": 49233.84232804,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42662": {
+                "count": 482,
+                "last_caught": 995752800,
+                "species_id": "42662"
+            },
+            "42663": {
+                "count": 42,
+                "last_caught": 555976800,
+                "species_id": "42663"
+            }
+        },
+        "counties": [
+            "Vestland"
+        ],
+        "municipalities": [
+            "Sogndal"
+        ]
+    },
+    "beiarelva": {
+        "name": "Beiarelva",
+        "length_meters": 63440.24142516,
+        "position": [],
+        "fish_species_count": 1,
+        "fish_data": {
+            "42672": {
+                "count": 2,
+                "last_caught": 1503612000,
+                "species_id": "42672"
+            }
+        },
+        "counties": [
+            "Nordland"
+        ],
+        "municipalities": [
+            "Beiarn"
+        ]
+    },
+    "glommavassdraget": {
+        "name": "Glommavassdraget",
+        "length_meters": 620920.23895438,
+        "position": [],
+        "fish_species_count": 23,
+        "fish_data": {
+            "42613": {
+                "count": 10,
+                "last_caught": 1281477600,
+                "species_id": "42613"
+            },
+            "42678": {
+                "count": 127,
+                "last_caught": 1508018400,
+                "species_id": "42678"
+            },
+            "42629": {
+                "count": 5,
+                "last_caught": 1281477600,
+                "species_id": "42629"
+            },
+            "42635": {
+                "count": 20,
+                "last_caught": 1718402400,
+                "species_id": "42635"
+            },
+            "42663": {
+                "count": 11,
+                "last_caught": 1716760800,
+                "species_id": "42663"
+            },
+            "42896": {
+                "count": 8,
+                "last_caught": 1284501600,
+                "species_id": "42896"
+            },
+            "42631": {
+                "count": 20,
+                "last_caught": 1718402400,
+                "species_id": "42631"
+            },
+            "42681": {
+                "count": 13,
+                "last_caught": 1716933600,
+                "species_id": "42681"
+            },
+            "42676": {
+                "count": 6,
+                "last_caught": 1420066800,
+                "species_id": "42676"
+            },
+            "42983": {
+                "count": 12,
+                "last_caught": 1598220000,
+                "species_id": "42983"
+            },
+            "42628": {
+                "count": 3,
+                "last_caught": 1128117600,
+                "species_id": "42628"
+            },
+            "42615": {
+                "count": 3,
+                "last_caught": 1245016800,
+                "species_id": "42615"
+            },
+            "42788": {
+                "count": 4,
+                "last_caught": 1420066800,
+                "species_id": "42788"
+            },
+            "42633": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42633"
+            },
+            "42669": {
+                "count": 1,
+                "last_caught": 1199142000,
+                "species_id": "42669"
+            },
+            "42456": {
+                "count": 1,
+                "last_caught": 1719266400,
+                "species_id": "42456"
+            },
+            "42610": {
+                "count": 1,
+                "last_caught": 1410127200,
+                "species_id": "42610"
+            },
+            "42621": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42621"
+            },
+            "42627": {
+                "count": 5,
+                "last_caught": 1604962800,
+                "species_id": "42627"
+            },
+            "42986": {
+                "count": 2,
+                "last_caught": 13561200,
+                "species_id": "42986"
+            },
+            "42665": {
+                "count": 5,
+                "last_caught": 1535234400,
+                "species_id": "42665"
+            },
+            "205797": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "205797"
+            },
+            "42852": {
+                "count": 1,
+                "last_caught": 1604962800,
+                "species_id": "42852"
+            }
+        },
+        "counties": [
+            "Akershus",
+            "Innlandet",
+            "Trøndelag",
+            "Østfold"
+        ],
+        "municipalities": [
+            "Alvdal",
+            "Elverum",
+            "Fredrikstad",
+            "Indre Østfold",
+            "Kongsvinger",
+            "Lillestrøm",
+            "Nes",
+            "Rendalen",
+            "Rælingen",
+            "Røros",
+            "Sarpsborg",
+            "Stor-Elvdal",
+            "Sør-Odal",
+            "Tolga",
+            "Tynset",
+            "Våler",
+            "Åsnes"
+        ]
+    },
+    "arendalsvassdraget": {
+        "name": "Arendalsvassdraget",
+        "length_meters": 222656.70737372,
+        "position": [],
+        "fish_species_count": 6,
+        "fish_data": {
+            "42633": {
+                "count": 3,
+                "last_caught": 1536530400,
+                "species_id": "42633"
+            },
+            "42663": {
+                "count": 2,
+                "last_caught": 1307829600,
+                "species_id": "42663"
+            },
+            "42676": {
+                "count": 2,
+                "last_caught": 0,
+                "species_id": "42676"
+            },
+            "42665": {
+                "count": 3,
+                "last_caught": 0,
+                "species_id": "42665"
+            },
+            "42681": {
+                "count": 5,
+                "last_caught": 0,
+                "species_id": "42681"
+            },
+            "42983": {
+                "count": 12,
+                "last_caught": 1658959200,
+                "species_id": "42983"
+            }
+        },
+        "counties": [
+            "Agder",
+            "Telemark"
+        ],
+        "municipalities": [
+            "Arendal",
+            "Froland",
+            "Nissedal",
+            "Åmli"
+        ]
+    },
+    "dalälven": {
+        "name": "Dalälven",
+        "length_meters": 159592.4149394,
+        "position": [],
+        "fish_species_count": 2,
+        "fish_data": {
+            "42681": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42681"
+            },
+            "42788": {
+                "count": 1,
+                "last_caught": 0,
+                "species_id": "42788"
+            }
+        },
+        "counties": [
+            "Innlandet"
+        ],
+        "municipalities": [
+            "Engerdal"
+        ]
+    },
+    "drammensvassdraget": {
+        "name": "Drammensvassdraget",
+        "length_meters": 309325.84593818,
+        "position": [],
+        "fish_species_count": 12,
+        "fish_data": {
+            "42663": {
+                "count": 96,
+                "last_caught": 1626127200,
+                "species_id": "42663"
+            },
+            "42621": {
+                "count": 2,
+                "last_caught": 1307743200,
+                "species_id": "42621"
+            },
+            "42635": {
+                "count": 5,
+                "last_caught": 1685829600,
+                "species_id": "42635"
+            },
+            "42983": {
+                "count": 72,
+                "last_caught": 1656108000,
+                "species_id": "42983"
+            },
+            "42676": {
+                "count": 26,
+                "last_caught": 1195513200,
+                "species_id": "42676"
+            },
+            "42628": {
+                "count": 2,
+                "last_caught": 1112047200,
+                "species_id": "42628"
+            },
+            "42681": {
+                "count": 17,
+                "last_caught": 1524952800,
+                "species_id": "42681"
+            },
+            "42669": {
+                "count": 20,
+                "last_caught": 490744800,
+                "species_id": "42669"
+            },
+            "42627": {
+                "count": 2,
+                "last_caught": 1112047200,
+                "species_id": "42627"
+            },
+            "42613": {
+                "count": 2,
+                "last_caught": 365464800,
+                "species_id": "42613"
+            },
+            "42631": {
+                "count": 1,
+                "last_caught": 1195513200,
+                "species_id": "42631"
+            },
+            "42852": {
+                "count": 1,
+                "last_caught": 1402956000,
+                "species_id": "42852"
+            }
+        },
+        "counties": [
+            "Buskerud",
+            "Innlandet"
+        ],
+        "municipalities": [
+            "Drammen",
+            "Hole",
+            "Lier",
+            "Nord-Aurdal",
+            "Ringerike",
+            "Sør-Aurdal",
+            "Vestre Slidre",
+            "Øvre Eiker"
+        ]
+    }
+}

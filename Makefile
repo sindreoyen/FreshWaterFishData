@@ -6,3 +6,6 @@ requirements:
 
 waterbodies:
 	python3 src/waterbodies.py
+
+extract_data: 
+	python3 src/extract_data.py

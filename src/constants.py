@@ -1,5 +1,10 @@
 import os
 
+class AggregateData:
+    __path = os.path.join('./', 'aggregations')
+    aggregated_lake_data = os.path.join(__path, 'aggregated_lake_data.json')
+    aggregated_river_data = os.path.join(__path, 'aggregated_river_data.json')
+
 class WaterBodyData:
     '''
     This class contains the paths to the waterbody data files.
@@ -35,7 +40,11 @@ class FishData:
     breed_data_path = os.path.join(__fish_data_folder, 'breed_data.csv')
     fish_extended_data_path = os.path.join(__fish_data_folder, 'fisk_extended.csv')
     reduced_fish_data_path = os.path.join(__fish_data_folder, 'reduced_fish_data.csv')
-    fish_with_waterbody_data_path = os.path.join("./", "extractedData", 'fish_with_waterbody.csv')
+
+    fish_with_waterbody_data_path = os.path.join("./", "extractedData", 'WaterbodyData', 'fish_with_waterbody.csv')
+    fish_with_lake_data_path = os.path.join("./", "extractedData", 'fish_with_lake.csv')
+    fish_with_river_data_path = os.path.join("./", "extractedData", 'fish_with_river.csv')
+    fish_with_riverNet_data_path = os.path.join("./", "extractedData", 'fish_with_riverNet.csv')
 
     # Init
     def __init__(self):
